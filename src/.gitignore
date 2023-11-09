@@ -1,0 +1,43 @@
+
+# Dependências instaladas pelo npm
+/node_modules
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Arquivos de build
+/build
+
+# Arquivos de configuração
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Outros arquivos
+*.swp
+*.bak
+*.cache
+*.json.orig
+*.tmp
+*.bak
+*.csv
+*.sql
+*.tar.gz
+*.tgz
+*.zip
+*.rar
+*.pyc
